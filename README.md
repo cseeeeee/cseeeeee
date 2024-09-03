@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://poised-bath-7c4.notion.site/BACKEND-DEVELOPER-91d6d5de25104b899bcc67c9776e3ace?pvs=4)
 <!--
 **cseeeeee/cseeeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
