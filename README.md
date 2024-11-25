@@ -1,9 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=65,104,118&height=250&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=50&fontAlign=50&fontAlignY=40&desc=Backend%20Developer%20Journey&descAlign=70&descAlignY=60&fontColor=EFFFFD)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:85C1E9,100:AFEEEE&height=250&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=50&fontAlign=50&fontAlignY=40&desc=Backend%20Developer%20Journey&descAlign=70&descAlignY=60&fontColor=EFFFFD)
 
 ### 👨‍💻 Tech Stack
-<br/>
 
 #### FrontEnd  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
@@ -28,7 +27,6 @@
 <br/><br/>
 
 ### 👋🏻 Contact Me
-<br/>
 
 <a href="mailto:choisui821@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
@@ -42,6 +40,6 @@
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=65,104,118&height=150&section=footer&fontColor=EFFFFD)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:85C1E9,100:AFEEEE&height=150&section=footer&fontColor=EFFFFD)
 
 </div>
