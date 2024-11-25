@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,5,10&height=250&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=50&fontAlign=50&fontAlignY=40&desc=Backend%20Developer%20Journey&descAlign=70&descAlignY=60&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=65,104,118&height=250&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=50&fontAlign=50&fontAlignY=40&desc=Backend%20Developer%20Journey&descAlign=70&descAlignY=60&fontColor=EFFFFD)
 
 ### 👨‍💻 Tech Stack
 <br/>
@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
 
-<br/>
+<br/><br/>
 
 ### 👋🏻 Contact Me
 <br/>
@@ -42,6 +42,6 @@
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,5,10&height=150&section=footer&fontColor=FFFFFF)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=65,104,118&height=150&section=footer&fontColor=EFFFFD)
 
 </div>
