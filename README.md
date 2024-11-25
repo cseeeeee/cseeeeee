@@ -24,8 +24,5 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
 
-- **Certifications**  
-  <img src="https://img.shields.io/badge/정보처리기사-FFCA28?style=flat&logo=expertsexchange&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/SQLD-4285F4?style=flat&logo=google&logoColor=white"/>
 
 </div>
