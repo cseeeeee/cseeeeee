@@ -1,5 +1,5 @@
 
-[![Notion]([https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://poised-bath-7c4.notion.site/BACKEND-DEVELOPER-91d6d5de25104b899bcc67c9776e3ace?pvs=4](https://www.notion.so/14942e3422b380ebab99e7bb8ae11933))
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/14942e3422b380ebab99e7bb8ae11933)
 [![Velog](https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@ctndl/posts)
 
 
