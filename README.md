@@ -25,8 +25,14 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
 
 ## 👋🏻 Contact Me
-<img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
+<a href="mailto:choisui821@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+</a> 
+<a href="https://velog.io/@ctndl/posts">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"/>
+</a> 
+<a href="https://www.notion.so/14942e3422b380ebab99e7bb8ae11933">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
+</a>
 
 </div>
