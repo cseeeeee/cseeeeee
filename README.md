@@ -2,13 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:85C1E9,100:AFEEEE&height=250&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=50&fontAlign=50&fontAlignY=40&desc=Backend%20Developer%20Journey&descAlign=70&descAlignY=60&fontColor=EFFFFD)
 
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/cseeeeee"
-  width="600"
-  height="300"
-/>
-</a>
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/2ㅣ2ㅣ?theme=light&posts=3)
 <br/><br/>
 
 ### 👨‍💻 Tech Stack
