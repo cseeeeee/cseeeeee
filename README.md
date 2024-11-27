@@ -2,9 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:85C1E9,100:AFEEEE&height=250&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=50&fontAlign=50&fontAlignY=40&desc=Backend%20Developer%20Journey&descAlign=70&descAlignY=60&fontColor=EFFFFD)
 
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/ctndl?theme=light&posts=3)
-<br/><br/>
-
 ### 👨‍💻 Tech Stack
 
 #### FrontEnd  
@@ -30,6 +27,8 @@
 <br/><br/>
 
 ### 👋🏻 Contact Me
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/ctndl?theme=dark&posts=3)
+<br/><br/>
 
 <a href="mailto:choisui821@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
