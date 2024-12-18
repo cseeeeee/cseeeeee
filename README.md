@@ -1,6 +1,5 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:85C1E9,100:AFEEEE&height=250&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=50&fontAlign=50&fontAlignY=40&desc=Backend%20Developer%20Journey&descAlign=70&descAlignY=60&fontColor=EFFFFD)
 
 <p align="center">
   <a href="https://www.notion.so/Java-Spring-15a42e3422b380188d1dc7fa127896d7">
@@ -49,8 +48,5 @@
 
 <br/>
 
-
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:85C1E9,100:AFEEEE&height=150&section=footer&fontColor=EFFFFD)
 
 </div>
